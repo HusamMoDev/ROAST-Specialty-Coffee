@@ -1,0 +1,8 @@
+{
+  "name": "ROAST × CHAI | مطعم ومحمصة القهوة المختصة دبي",
+  "description": "المنصة الرسمية المباشرة لطلب القهوة المختصة والمأكولات الطازجة من محمصة وفروع ROAST في دبي والإمارات بدون عمولات تطبيقات التوصيل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
